@@ -1,2 +1,2 @@
 # Bias and Variance Medium Post
-A code for the Bias and Variance post on Medium.com
+<a href="https://medium.com/@sebastianpoliak/systematically-tuning-your-model-by-looking-at-bias-and-variance-4986662315b2">Systematically Tuning Your Model by Looking at Bias and Variance</a>
